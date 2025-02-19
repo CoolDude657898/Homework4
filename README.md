@@ -1,4 +1,5 @@
-**HOMEWORK 4** \n
+**HOMEWORK 4** 
+
 This is a personality quiz to determine the favorite color of a person taking the quiz.
 
 Uses html, css, and php.
