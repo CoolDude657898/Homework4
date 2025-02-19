@@ -1,6 +1,6 @@
 **HOMEWORK 4** 
 
-This is a personality quiz to determine the favorite color of a person taking the quiz.
+This is a personality quiz to determine the perfect vacation for a person taking the quiz.
 
 Uses html, css, and php.
 
